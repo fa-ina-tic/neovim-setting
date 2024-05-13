@@ -14,4 +14,8 @@ node.js
 
 ## Quickstart
 
+```bash
+mv {git_repo} ~/.config/nvim
+```
+
 ## Version History
