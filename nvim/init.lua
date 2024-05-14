@@ -2,3 +2,4 @@
 require("config.lazy")
 
 vim.o.shell = "/bin/zsh -i"
+vim.o.hlsearch = true
