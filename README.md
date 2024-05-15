@@ -11,6 +11,11 @@ Git >= 2.19.0 (for partial clones support)
 a Nerd Font (optional)
 a C compiler for nvim-treesitter. See here
 node.js
+clang-format
+
+```bash
+brew install npm && clang-format
+```
 
 ## Quickstart
 
